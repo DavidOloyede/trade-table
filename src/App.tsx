@@ -1,5 +1,5 @@
-import React from "react";
-import TradeTable from "./components/TradeTable";
+import React from 'react';
+import TradeTable from './components/TradeTable';
 
 const App = () => {
   return (
